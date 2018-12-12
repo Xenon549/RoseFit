@@ -1,0 +1,5 @@
+<?php
+$link = "120.110.113.61/website/"
+
+$data = json_decode($link,true);
+?>

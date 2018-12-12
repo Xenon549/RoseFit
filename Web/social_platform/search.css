@@ -1,0 +1,21 @@
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url(http://120.110.113.70/rosefit_greenhouse/social_platform/img/search.png);
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 15px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-left: 9px;
+    margin-top: 15px;
+}
+/*
+input[type=text]:focus {
+    width: 100%;
+}
+*/

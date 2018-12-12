@@ -1,0 +1,19 @@
+{
+  "name": "rosefit1",
+  "version": "1.0.0",
+  "description": "test api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steve",
+  "license": "ISC",
+  "dependencies": {
+    "binary-extensions": "^1.11.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "fs-extra": "^7.0.1",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0"
+  }
+}
